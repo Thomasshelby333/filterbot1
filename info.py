@@ -69,6 +69,6 @@ DOWNLOAD_TEXT_URL = environ.get("DOWNLOAD_TEXT_URL", "https://www.google.com/")
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = environ.get("CAPTION_BUTTON", "Support ⚡")
-CAPTION_BUTTON_URL = environ.get("CAPTION_BUTTON_URL", "https://www.google.com/")
+CAPTION_BUTTON_URL = environ.get("CAPTION_BUTTON_URL", "https://t.me/+hvGQ4DApC39hYzVl")
 
-YOUR_CHANNEL = environ.get("YOUR_CHANNEL", "https://www.google.com/")
+YOUR_CHANNEL = environ.get("YOUR_CHANNEL", "https://t.me/+hvGQ4DApC39hYzVl")
