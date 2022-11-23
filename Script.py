@@ -10,11 +10,11 @@ Here Is The Help For MY Commands."""
 
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : <a href=https://github.com/pyrogram/pyrogram><b>ᴘʏʀᴏɢʀᴀᴍ</b></a>\n
 
-📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href=heroku.com><b>ʜᴇʀᴏᴋᴜ</b></a>\n
+📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href=koyeb.com><b>KOYEB</b></a>\n
 
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/JonSnow11><b>ᴊᴏɴ sɴᴏᴡ</b></a>\n
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/JonSnow11><b>THOMAS shelby</b></a>\n
 
-👥 sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/RolexMoviesOX><b>ʀᴏʟᴇx ᴄᴏᴍᴍᴜɴɪᴛʏ</b></a>\n
+👥 sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/tmfOX><b>ʀᴏʟᴇx ᴄᴏᴍᴍᴜɴɪᴛʏ</b></a>\n
 """
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
     
