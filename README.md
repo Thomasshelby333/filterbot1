@@ -64,19 +64,15 @@ The fastest way to deploy the application is to click the **Deploy to Koyeb** bu
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Thomasshelby333/filterbot1)
 
-## Deploy on Render
-
-Follow the guide at https://render.com/docs/deploy-flask.
-
-Footer
 
 
 
-<details><summary>Deploy To Heroku</summary>
+
+<details><summary>Deploy To Koyeb</summary>
 <p>
 <br>
 <a href="https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://www.koyebcdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
