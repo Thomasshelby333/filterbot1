@@ -12,7 +12,7 @@ Here Is The Help For MY Commands."""
 
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href=koyeb.com><b>KOYEB</b></a>\n
 
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/JonSnow11><b>THOMAS shelby</b></a>\n
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/thomas><b>THOMAS shelby</b></a>\n
 
 👥 sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/tmfOX><b>ʀᴏʟᴇx ᴄᴏᴍᴍᴜɴɪᴛʏ</b></a>\n
 """
